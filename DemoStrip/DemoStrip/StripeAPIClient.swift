@@ -14,7 +14,7 @@ import SwiftyJSON
 class StripeAPIClient: NSObject, STPEphemeralKeyProvider {
 
     static let shared = StripeAPIClient()
-    var baseURLString: String? = "http://projects.worldwebdev.in/toyin/api/user/"
+    var baseURLString: String? = "http://**********"
     var baseURL: URL {
         if let urlString = self.baseURLString, let url = URL(string: urlString) {
             return url
