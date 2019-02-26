@@ -1,0 +1,17 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '11.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'DemoStrip' do
+ pod 'Stripe'
+ 
+ pod 'Alamofire'
+ pod 'AlamofireObjectMapper'
+ pod 'AlamofireNetworkActivityIndicator'
+ pod 'ObjectMapper'
+ pod 'SwiftyJSON'
+ 
+ pod 'SVProgressHUD'
+ 
+end
