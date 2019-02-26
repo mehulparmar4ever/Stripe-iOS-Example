@@ -1,9 +1,9 @@
 //
-//  BackendAPIAdapter.swift
-//  Standard Integration (Swift)
+//  StripeAPIClient.swift
+//  DemoStrip
 //
-//  Created by Ben Guo on 4/15/16.
-//  Copyright © 2016 Stripe. All rights reserved.
+//  Created by mp on 26/02/19.
+//  Copyright © 2019 Demo Project. All rights reserved.
 //
 
 import Foundation

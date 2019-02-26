@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  DemoStrip
 //
-//  Created by mp on 13/02/19.
+//  Created by mp on 26/02/19.
 //  Copyright © 2019 Demo Project. All rights reserved.
 //
 

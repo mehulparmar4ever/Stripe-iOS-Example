@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DemoStrip
 //
-//  Created by mp on 13/02/19.
+//  Created by mp on 26/02/19.
 //  Copyright © 2019 Demo Project. All rights reserved.
 //
 
@@ -17,9 +17,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
-        STPPaymentConfiguration.shared().publishableKey = "pk_test_*******"
+        STPPaymentConfiguration.shared().publishableKey = "pk_test_***************"
         
-        STPPaymentConfiguration.shared().appleMerchantIdentifier = "merchant.com.*******"
+        STPPaymentConfiguration.shared().appleMerchantIdentifier = "merchant.com.***************"
         
         STPPaymentConfiguration.shared().companyName = "Test"
         
